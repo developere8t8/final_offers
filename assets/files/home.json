@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone 12 Pro Max",
+            "desc": "Apple Iphone 12th Generation",
+            "rating": 4.5,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro 2022",
+            "desc": "Apple MacBook Pro 2022",
+            "rating": 1999,
+            "color": "#33505a",
+            "image": "https://www.pngitem.com/pimgs/m/465-4656388_macbook-pro-16-hd-png-download.png"
+        },
+        {
+            "id": 3,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5 Game Console",
+            "rating": 799,
+            "color": "#33505a",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$native--t$"
+        },
+        {
+            "id": 4,
+            "name": "Apple Airpods 3",
+            "desc": "New Apple Airpods 3 2022",
+            "rating": 500,
+            "color": "#33505a",
+            "image": "https://www.freepnglogos.com/uploads/airpods-png/airpods-pro-airpods-what-the-difference-and-10.png"
+        },
+        {
+            "id": 5,
+            "name": "Oneplus 10 Pro",
+            "desc": "Oneplus New Flagship 2022",
+            "rating": 650,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Realme GT Master",
+            "desc": "Perfect for Gaming and Photography",
+            "rating": 450,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-master-1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Lenovo Legion 2 Pro",
+            "desc": "Lenovo 2nd Gen Gaming Phone With Ultra Specs",
+            "rating": 1500,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-legion-2-pro-phone-duel2-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Oppo F21 Pro",
+            "desc": "Oppo F21 Pro Better Selfie Camera",
+            "rating": 399,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-4g-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Samsung S22 Ultra",
+            "desc": "Samsung New Flagship S22 Ultra 2022",
+            "rating": 1599,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Xiaomi 12s Ultra",
+            "desc": "Xiaomi Mi Latest Flagship 2022",
+            "rating": 1199,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12s-ultra-black-1.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Google Pixel 6 Pro",
+            "desc": "Google 6th Gen Pixel Phone",
+            "rating": 1350,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-pro-1.jpg"
+        }
+    ]
+}
